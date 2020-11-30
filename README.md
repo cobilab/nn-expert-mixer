@@ -1,5 +1,6 @@
+Neural network expert mixer
 ====
-A mixer based on stacked generalization, using neural networks. Used in GeCo3 and AC2 (variant).
+A mixer based on stacked generalization, using neural networks. Used in [GeCo3](https://github.com/cobilab/geco3/) and in [AC2](https://github.com/cobilab/ac2/) with small modifications.
 
 Export mixer to other compressors
 ----
